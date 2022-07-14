@@ -6,6 +6,13 @@
 - Iam learning JavaScript and ReactNative
 - If you want contact me -> guipinheiro2004@hotmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guibritx&label=Profile%20views&color=0e75b6&style=flat" alt="guibritx" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-brito-1553a5216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-brito-1553a5216/" height="30" width="40" /></a>
+</p>
+
 ###    Language and Tools:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
