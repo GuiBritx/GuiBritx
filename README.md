@@ -3,7 +3,7 @@
 <br>
 
 - My name is Guilherme Brito, i'm 18 years
-- Iam learning JS, Zabbix, Grafana and Linux terminal.
+- Iam learning JavaScript, Zabbix, Grafana and Linux terminal.
 - If you want contact me -> guipinheiro2004@hotmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guibritx&label=Profile%20views&color=0e75b6&style=flat" alt="guibritx" /> </p>
