@@ -2,8 +2,8 @@
 <br>
 <br>
 
-- My name is Guilherme Brito, i'm 19 years
-- Iam learning Angular, NodeJS and Windows Terminal.
+- My name is Guilherme Brito, i'm 20 years
+- Iam learning Angular and UI Design.
 - If you want contact me -> guipinheiro2004@hotmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guibritx&label=Profile%20views&color=0e75b6&style=flat" alt="guibritx" /> </p>
